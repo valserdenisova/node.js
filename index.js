@@ -1,7 +1,7 @@
 const func = () => {
 const sum = (a, b) => a + b;
 let x = 10;
-let y = 20;
+let y = 20
 
 console.log(sum(x, y)); // 30
 debugger;
@@ -12,3 +12,6 @@ console.log(sum(x, y)); // 50
 };
 
 func();
+
+const a = 5
+console.log(a)
